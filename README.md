@@ -1,2 +1,2 @@
-# BIT2323-VB.NET-CAT
+# BIT2323-VB.NET CAT
 VB.NET Application Programming II CAT 
